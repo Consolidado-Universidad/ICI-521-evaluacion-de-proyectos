@@ -63,19 +63,15 @@ El **Estudio de Mercado** es **fundamental para determinar la demanda, competenc
 
 El **Estudio Técnico** se enfoca en **evaluar la viabilidad técnica del proyecto**, considerando los recursos, tecnología, materiales, infraestructura y procesos necesarios para su ejecución. Este estudio permite determinar si es posible llevar a cabo el proyecto y qué recursos se requieren para su desarrollo.
 
-#### ¿El proyecto cumple con las leyes y regulaciones requeridas? ¿Son necesarios permisos, licencias o requisitos legales específicos?
-
-#### ¿Es el proyecto financieramente viable? ¿Podrá generar suficientes beneficios para cubrir los costos y alcanzar la rentabilidad esperada?
-
-2. **Estudio Técnico**:
+1. **Estudio Técnico**:
    - **Objetivo**: Determinar la factibilidad técnica del proyecto, incluyendo los recursos, tecnología, materiales, infraestructura y procesos necesarios para su ejecución.
    - **Pregunta que responde**: ¿Es posible llevar a cabo el proyecto desde un punto de vista técnico? ¿Cuáles son los recursos y procesos necesarios para desarrollarlo?
 
-3. **Estudio Legal**:
+2. **Estudio Legal**:
    - **Objetivo**: Evaluar el cumplimiento de las normas, leyes y regulaciones que afectan al proyecto, garantizando que se realice dentro del marco legal.
    - **Pregunta que responde**: ¿El proyecto cumple con todas las leyes y regulaciones aplicables? ¿Existen permisos, licencias o requisitos legales que se deben cumplir?
 
-4. **Estudio Financiero**:
+3. **Estudio Financiero**:
    - **Objetivo**: Analizar la viabilidad económica del proyecto, estimando los costos, ingresos, rentabilidad, flujo de caja y punto de equilibrio.
    - **Pregunta que responde**: ¿El proyecto es financieramente viable? ¿Generará beneficios suficientes para cubrir los costos y alcanzar la rentabilidad deseada?
 
